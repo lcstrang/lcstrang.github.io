@@ -100,3 +100,7 @@ All scientific acknowledgements can be found in the reference section of the pap
 The following additional resources were used on this page:
 
 * Fig 2.1: Composite image of the Crab nebula combining data from Hubble (optical wavelengths; red) and Chandra (X-rays; blue). Image via <a href="https://en.wikipedia.org/wiki/Crab_Nebula">Wikipedia</a> 
+* Data
+    * This work made use of data supplied by the UK Swift Science Data Centre at the University of Leicester.
+    * [Evans et al. (2007, A&A, 469, 379)](https://ui.adsabs.harvard.edu/abs/2007A%26A...469..379E/abstract)
+    * [Evans et al. (2009, MNRAS, 397, 1177)](https://ui.adsabs.harvard.edu/abs/2009MNRAS.397.1177E/abstract)
