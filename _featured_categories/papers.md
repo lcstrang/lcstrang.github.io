@@ -8,7 +8,7 @@ slug: papers
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Summaries of some of my recent papers. For a more complete list, please see my [CV](/cv)
+  Summaries of recent papers I have been involved in. For a more complete list, please see my [CV](/cv)
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
