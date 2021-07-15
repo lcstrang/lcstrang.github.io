@@ -2,7 +2,7 @@
 layout: post
 title: CV
 description: >
-    CV
+CV
 hide_description: true
 ---
 
