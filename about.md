@@ -34,7 +34,7 @@ For many neutron stars, this frequency falls in the frequency range LIGO is sens
 Better yet, optimistic estimates predict a gravitational-wave strain only a few orders of magnitude less than signals LIGO can already detect. 
 Detection of CWs seems imminent. 
 
-During the third observing run of LIGO and VIRGO, I led a search for CWs from young supernova remnants.
+During the third observing run of LIGO and VIRGO, I was part of a search for CWs from young supernova remnants.
 In addition to managing the analysis and paper-writing team, I designed and ran one of the three complementary pipelines used in the analysis.
 
 For a more complete overview of this project, check out the [LIGO science summary](https://ligo.org/science/Publication-O3aDirectedSNR/index.php) or the [paper](https://arxiv.org/abs/2105.11641).
