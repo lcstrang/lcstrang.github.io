@@ -134,3 +134,19 @@ prep.
 
 
 ### COLLABORATION PUBLICATIONS
+#### LVK
+As a member of the LIGO-Virgo-KAGRA collaboration, I am listed as an author on the following publications. 
+
+* Abbott et al (2021), Constraints on dark photon dark matter using data from LIGO’s and Virgo’s third observing run, submitted, arxiv: 2105.13085
+* Abbott et al (2021), Search for lensing signatures in the gravitational-wave observations form the first half of LIGO-Virgo’s third observing run, submitted, arxiv: 2105.06384
+* Abbott et al (2021), Constraints from LIGO O3 data on gravitational-wave emission due to r-modes in the glitching pulsar PSR J0537-6910, submitted, arxiv: 2104.14417
+* Abbott et al (2021), Search for anisotropic gravitational-wave backgrounds using data from Advanced LIGO’s and Advanced Virgo’s first three observing runs, submitted, arxiv: 2103.08520
+* Abbott et al (2021), All-sky search in early O3 LIGO data fro continuous gravitational-wave signals from unknown neutron stars in binary systems, Phys. Rev. D 103, 064017, arxiv: 2012.12128
+* Abbott et al (2021), Constraints on cosmic strings using data from the third Advanced LIGO-Virgo observing run, Phys. Rev. Lett. 126, 241102, arxiv: 2101.12248
+* Abbott et al (2021), Upper limits on the isotropic gravitational-wave background from Advanced LIGO’s and Advanced Virgo’s third observing run, submitted, arxiv: 2101.12130
+* Abbott et al (2020), Diving below the spin-down limit: constraints on gravitational waves from the energetic young pulsar PSR J0537-6910, ApJL 913 L27, arxiv: 2012.12926
+
+#### OzGrav
+As a member of OzGrav, I am listed as an author on the following publications. 
+
+* Ackley et al (2020), Neutron Star Extreme Matter Observatory: A kilohertz-band gravitational-wave detector in the global network), Publications of the Astronomical Society of Australia, 37, E047, arxiv: 2105.13085

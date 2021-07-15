@@ -55,7 +55,6 @@ Leveraging old models for young supernova remnants, my supervisor and I delved i
 In [Strang & Melatos (2019)](/_posts/StrangMelatos2019), we define and solve the partial differential equation governing the model.
 <!-- In CITE, we team up with colleages at Monash University to use this model to infer the underlying properties of the magnetar driving the plateau. -->
 
-## Collaboration
 
 ## Future
 
@@ -65,3 +64,10 @@ Please contact me for the latest version as a PDF.
 
 ## Contact
 I'm always open to opportunities to connect and collaborate. You can contact me at lstrang91@gmail.com or via the social media tabs in the sidebar.
+
+## Collaborations
+
+I would like to thank the following collaborations and organizations for their support.
+
+ [![OzGrav logo](/assets/img/ozgrav.png)](https://www.ozgrav.org/)
+[![LIGO logo](/assets/img/ligologo.jpg)](https://www.ligo.org/)
