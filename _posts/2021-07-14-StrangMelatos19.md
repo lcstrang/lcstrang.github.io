@@ -56,7 +56,7 @@ One popular class of models proposes that the prolonged emission in the X-ray ba
 The most likely culprit is a millisecond magnetar: a highly magnetized, rapidly rotating neutron star.
 In this scenario, the rotational energy of the star is extracted via magnetic dipole braking and becomes the observed X-ray emission. 
 At a high level, this is similar to early models of young pulsar wind nebulae, in particular the Crab nebula (Fig. 2.1).
-My PhD supervisor, Prof. Andrew Melatos, proposed the mechanism driving X-ray production following sGRBs may be similar to that driving X-ray production in pulsar wind nebulae.
+This work explores the possibility that the mechanism driving X-ray production following sGRBs may be similar to that driving X-ray production in pulsar wind nebulae.
 
 <figure>
 <img src="/assets/img/papers/crab.jpg" alt="Observed X-ray flux for GRB130603B" style="width:60%"/>
