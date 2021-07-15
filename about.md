@@ -52,7 +52,7 @@ My work has focused on X-ray plateaux, i.e. X-ray afterglows with an approximate
 One possible model for X-ray plateaux relies on a millisecond magnetar surviving the collision. 
 In this scenario, the rotational energy of the magnetar gets converted into the observed X-rays.
 Leveraging old models for young supernova remnants, my supervisor and I delved into the underlying physics driving this model.
-In [Strang & Melatos (2019)](papers/StrangMelatos2019), we define and solve the partial differential equation governing the model.
+In [Strang & Melatos (2019)](/_posts/StrangMelatos2019), we define and solve the partial differential equation governing the model.
 <!-- In CITE, we team up with colleages at Monash University to use this model to infer the underlying properties of the magnetar driving the plateau. -->
 
 ## Collaboration
