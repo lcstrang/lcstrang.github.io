@@ -15,7 +15,7 @@ Gravitational-wave data analysis, GRBs and supernova remnants.
 **PhD** in astrophysics at the [University of Melbourne](www.unimelb.edu.au) (2017 -)
 
 * Published four papers (excluding papers authored solely through collaboration membership) with one additional paper in prep. 
-* Lead international team within LIGO-Virgo-KAGRA (LVK) collaboration searching for continuous gravitational waves
+* Led international team within LIGO-Virgo-KAGRA (LVK) collaboration searching for continuous gravitational waves
 * Developed a new, analytic model for X-ray plateaux following short Gamma-Ray Bursts (sGRBs)
 * Inferred central engine parameters using custom model for sGRB afterglows
 * Contributed to two short-author analyses using public LIGO data searching for continuous gravitational waves
@@ -32,12 +32,12 @@ Gravitational-wave data analysis, GRBs and supernova remnants.
 ### RECENT PROFESSIONAL EXPERIENCE
 Teaching has been a long-term interest of mine. A good teacher can mean the difference between a lifelong passion for or enduring hatred of a subject. In my six years of teaching experience, I have learnt to balance the needs of students with diverse needs and to adapt my classes to suit the target audience. 
 
-**Tutor** for [PHYC20015](https://handbook.unimelb.edu.au/2019/subjects/phyc20015/) at the [University of Melbourne](www.unimelb.edu.au) (2018 - 2020)
+**Tutor** for [PHYC20015](https://handbook.unimelb.edu.au/2019/subjects/phyc20015/) at the [University of Melbourne](www.unimelb.edu.au) (2018 - )
 * Sole tutor for second-year special relativity (~ 100 students)
 * Maintained > 80% tutorial attendance throughout semester (average attendance across physics < 50%)
 * Marked exams and assignments
 * Provided out-of-class support to students
-* Managed transition to remote learning in 2020
+* Managed transition to remote learning in 2020 and overhauled in 2021 to maximize student engagement
 
 **Work Experience Coordinator** at the [University of Melbourne](www.unimelb.edu.au) (2019)
 
@@ -97,24 +97,29 @@ I believe our community is at its best when it is inclusive and diverse. The mos
 * Guest on “Physics World” podcast (2021)
 * Regular contributor at assorted OzGrav and University of Melbourne initiatives
 
+### Technical skills
+
+**Proficient:** python, LaTeX, bash, slurm, HTCondor, Microsoft Excel, Linux, Mac OSX
+
+**Familiar with:** C, C++, Mathematica, Matlab, HTML, Jekyll, Microsoft Office Suite, Libre Office Suite, Google office suite
 
 ### PUBLICATIONS
 The following publications are publications in which I have made an active and appreciable contribution. A more detailed overview of my papers can be found [here](/papers/)
 
-**Abbott et al (2021)**, *Searches for continuous gravitational waves from 15 young supernova remnants in the first half of the third observing run of advanced LIGO and Virgo*, ApJ, submitted, [arxiv.org/abs/2105.11641](https://arxiv.org/abs/2105.11641)
+**Abbott et al (2021)**, *Searches for continuous gravitational waves from 15 young supernova remnants in the first half of the third observing run of advanced LIGO and Virgo*, ApJ, accepted, [arxiv.org/abs/2105.11641](https://arxiv.org/abs/2105.11641)
 
 * Project manager for full collaboration paper
 * Managed a team of analysts and writers
 * Lead analyst for one of the three pipelines presented
 * Identified and corrected gaps in the standard process for setting upper limits
 
-**Strang et al (2021)**, *Inferring properties of neutron stars born in short gamma-ray bursts with a plerion-like X-ray plateau*, MNRAS, submitted
+**L. C. Strang, A. Melatos, N. Sarin, P. D. Lasky**, *Inferring properties of neutron stars born in short gamma-ray bursts with a plerion-like X-ray plateau*, MNRAS, accepted, [arxiv.org/abs/2107.13787](https://arxiv.org/abs/2107.13787)
 
 * Developed python implementation of new model for the X-ray afterglows that follow some sGRBs
 * Performed and optimized parameter estimation process, including prior selection, validation, and result analysis
 * Explored three different variations of the underlying model presented in Strang & Melatos (2020)
 
-**Strang & Melatos (2019)**, *Plerion model of the X-ray plateau in short gamma-ray bursts*, [MNRAS](https://academic.oup.com/mnras/article-abstract/487/4/5010/5518367) Volume 487, Issue 4, August 2019, Pages 5010–5018, [arxiv.org/abs/1906.02877](https://arxiv.org/abs/1906.02877)
+**L. C. Strang & A. Melatos (2019)**, *Plerion model of the X-ray plateau in short gamma-ray bursts*, [MNRAS](https://academic.oup.com/mnras/article-abstract/487/4/5010/5518367) Volume 487, Issue 4, August 2019, Pages 5010–5018, [arxiv.org/abs/1906.02877](https://arxiv.org/abs/1906.02877)
 
 * Levereged existing models of young supernova remnants to explore the aftermath of short gamma-ray bursts
 * Constructed and analytically solved partial differential equations governing the evolution of a nebula surrounding a magnetar
