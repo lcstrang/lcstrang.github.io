@@ -27,6 +27,5 @@ hide_last_modified: true
 L. C. Strang is currently based in Narrm-Melbourne, Australia. They acknowledge the Wurundjeri people as the Traditional Owners and Custodians of the land and pay their respects to Elders past and present. 
 
 #### Collaborations
- <!-- [![image alt text](image url link)](anchor link) -->
  [![OzGrav logo](/assets/img/ozgrav.png)](https://www.ozgrav.org/)
 [![LIGO logo](/assets/img/ligologo.jpg)](https://www.ligo.org/)
