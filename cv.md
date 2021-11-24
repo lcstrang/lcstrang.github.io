@@ -61,16 +61,18 @@ Teaching has been a long-term interest of mine. A good teacher can mean the diff
 
 ### INVITED TALKS
 
-* Einstein Seminar, University of Tübingen, 2021 (virtual)
+* “A model for X-ray plateaux following short Gamma-Ray Bursts”, Einstein Seminar, University of Tübingen, 2021 (virtual)
+* “A model for X-ray plateaux following short Gamma-Ray Bursts”,  OzGrav Data/Astro videocon, 2021 (virtual)
+* “Searches for continuous gravitational waves from young supernova remnants with advanced LIGO and Virgo “, full LVK presentation 2020  (virtual)
 
 ### CONTRIBUTED TALKS
 
+* “Searches for continuous gravitational waves from young supernova remnants with advanced LIGO and Virgo”, Lancaster University Astrophysics Webinar, 2021 (virtual)
 * “A model for X-ray plateaux following short Gamma-Ray Bursts”, [Marcel Grossman 2021 ](http://www.icra.it/mg/mg16/) (virtual)
 * “Searches for continuous gravitational waves from young supernova remnants with advanced LIGO and Virgo”, [Marcel Grossman 2021 ](http://www.icra.it/mg/mg16/) (virtual)
 * “Searches for continuous gravitational waves from young supernova remnants with advanced LIGO and Virgo”, [Amaldi 2021](https://www.amaldi14.org/)
 * “A model for X-ray plateaux following short Gamma-Ray Bursts”, [COSPAR 2021](http://www.cospar2021.org/) (virtual)
 * “A model for X-ray plateaux following short Gamma-Ray Bursts”, [Australian Institute of Physics](https://physics.org.au/) Summer Meeting 2019 (in person); awarded “Best Student Talk”
-* “Searches for continuous gravitational waves from young supernova remnants with advanced LIGO and Virgo “, full LVK presentation 2020  (virtual)
 * “Searches for continuous gravitational waves from young supernova remnants with advanced LIGO and Virgo ”, LVK face-to-face 2020  (virtual)
 * “X-ray plateaux in short Gamma Ray Bursts”, Geoff Opat Seminar Sessions, University of Melbourne, 2019 (in person); awarded annual “Best GOSS Seminar”
 
