@@ -39,10 +39,6 @@ In addition to managing the analysis and paper-writing team, I designed and ran 
 
 For a more complete overview of this project, check out the [LIGO science summary](https://ligo.org/science/Publication-O3aDirectedSNR/index.php) or the [paper](https://arxiv.org/abs/2105.11641).
 
-My other projects related to gravitational waves include:
-
-* Millhouse et al (2020), published
-* Beniwal et al (2021), in prep
 
 ### Supernova remnants and short Gamma-Ray Bursts
 
@@ -53,7 +49,7 @@ One possible model for X-ray plateaux relies on a millisecond magnetar surviving
 In this scenario, the rotational energy of the magnetar gets converted into the observed X-rays.
 Leveraging old models for young supernova remnants, my supervisor and I delved into the underlying physics driving this model.
 In [Strang & Melatos (2019)](/_posts/StrangMelatos2019), we define and solve the partial differential equation governing the model.
-<!-- In CITE, we team up with colleages at Monash University to use this model to infer the underlying properties of the magnetar driving the plateau. -->
+In [Strang et al (2021)](/_posts/2021-07-28-SSML.md), we team up with colleages at Monash University to use this model to infer the underlying properties of the magnetar driving the plateau.
 
 
 ## Future

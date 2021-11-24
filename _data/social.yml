@@ -209,4 +209,5 @@ download:
 orcid:
   name: orcid
   prepend: "https://orcid.org/"
+  icon: icon-book
 

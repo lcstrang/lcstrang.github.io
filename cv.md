@@ -87,14 +87,14 @@ I believe our community is at its best when it is inclusive and diverse. The mos
 
 * Co-coordinated the annual retreat for women and diverse genders in physics and maths
 * Developed and delivered workshop on dealing with workplace aggression
-* Developed and scheduled to deliver (09/21) self-defence workshop
 * Panel member for discussion on industry employment
 
 ### Outreach
-
+* Published in LIGO Magazine, Issue 19 (2021), ["Continuing continuous wave science in a pandemic"](https://ligo.org/magazine/LIGO-magazine-issue19.pdf#page=11)
+* Interviewed on “Physics World” podcast (2021), ["The physics of olympic sports, searching for continuous gravitational waves"](https://physicsworld.com/a/the-physics-of-olympic-sports-searching-for-continuous-gravitational-waves/)
+* Interviewed in Physics World Big Science (2021)["OzGrav hunts faint signals from continuous gravitational waves"](https://prod-physicsworld-iop.content.pugpig.com/blog/2021/09/14/ozgrav-hunts-faint-signals-from-continuous-gravitational-waves/pugpig_index.html)
+* Published in The Conversation (2020), “[Curious kids: is time travel possible for humans?](https://theconversation.com/curious-kids-is-time-travel-possible-for-humans-140703)”
 * Presented at “Pint of Science” 2019
-* Published in The Conversation (2020), “Curious kids: is time travel possible for humans?”
-* Guest on “Physics World” podcast (2021)
 * Regular contributor at assorted OzGrav and University of Melbourne initiatives
 
 ### Technical skills
@@ -104,16 +104,18 @@ I believe our community is at its best when it is inclusive and diverse. The mos
 **Familiar with:** C, C++, Mathematica, Matlab, HTML, Jekyll, Microsoft Office Suite, Libre Office Suite, Google office suite
 
 ### PUBLICATIONS
-The following publications are publications in which I have made an active and appreciable contribution. A more detailed overview of my papers can be found [here](/papers/)
+The following publications are publications in which I have made an active and appreciable contribution.
+For a full list of all my papers, including papers from the LIGO-Virgo-KAGRA collaboration, visit my [ORCID](https://orcid.org/0000-0001-7834-9235).
+A more detailed overview of my papers can be found [here](/papers/). 
 
-**Abbott et al (2021)**, *Searches for continuous gravitational waves from 15 young supernova remnants in the first half of the third observing run of advanced LIGO and Virgo*, ApJ, accepted, [arxiv.org/abs/2105.11641](https://arxiv.org/abs/2105.11641)
+**Abbott et al (2021)**, *Searches for continuous gravitational waves from 15 young supernova remnants in the first half of the third observing run of advanced LIGO and Virgo*, [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/ac17ea), 912 80, [arxiv.org/abs/2105.11641](https://arxiv.org/abs/2105.11641)
 
 * Project manager for full collaboration paper
 * Managed a team of analysts and writers
 * Lead analyst for one of the three pipelines presented
 * Identified and corrected gaps in the standard process for setting upper limits
 
-**L. C. Strang, A. Melatos, N. Sarin, P. D. Lasky**, *Inferring properties of neutron stars born in short gamma-ray bursts with a plerion-like X-ray plateau*, MNRAS, accepted, [arxiv.org/abs/2107.13787](https://arxiv.org/abs/2107.13787)
+**L. C. Strang, A. Melatos, N. Sarin, P. D. Lasky**, *Inferring properties of neutron stars born in short gamma-ray bursts with a plerion-like X-ray plateau*, [MNRAS](https://doi.org/10.1093/mnras/stab2210), Volume 507, Issue 2, October 2021, Pages 2843–2855, [arxiv.org/abs/2107.13787](https://arxiv.org/abs/2107.13787)
 
 * Developed python implementation of new model for the X-ray afterglows that follow some sGRBs
 * Performed and optimized parameter estimation process, including prior selection, validation, and result analysis
@@ -127,31 +129,12 @@ The following publications are publications in which I have made an active and a
 
 **Millhouse, Strang & Melatos (2020)**, *Search for gravitational waves from twelve young supernova remnants with a hidden Markov model in Advanced LIGO's second observing run*, [Phys. Rev. D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.083025) 102, 083025 [arxiv.org/abs/2003.08588](https://arxiv.org/abs/2003.08588) 
 
-* Co-organized and ran ⅓ of the analysis, including running the initial search
+* Co-organized and ran the analysis, including running the initial search
 * Assisted with remaining analysis (i.e. follow-up and vetoes)
 
-**Beniwal et al (2021)**, *Search for gravitational waves from HESS sources*, in prep
-prep.
-
-* Provided guidance to PhD student running the project
-* Advised on search structure and parameter space
-* Provided key scripts and associated technical support
 
 
 ### COLLABORATION PUBLICATIONS
-#### LVK
-As a member of the LIGO-Virgo-KAGRA collaboration, I am listed as an author on the following publications. 
+As a member of the LIGO-Virgo-KAGRA collaboration, I am listed as an author on collaboration papers. 
+For a full list of all my papers, including papers from the LIGO-Virgo-KAGRA collaboration, visit my [ORCID](https://orcid.org/0000-0001-7834-9235).
 
-* Abbott et al (2021), Constraints on dark photon dark matter using data from LIGO’s and Virgo’s third observing run, submitted, arxiv: 2105.13085
-* Abbott et al (2021), Search for lensing signatures in the gravitational-wave observations form the first half of LIGO-Virgo’s third observing run, submitted, arxiv: 2105.06384
-* Abbott et al (2021), Constraints from LIGO O3 data on gravitational-wave emission due to r-modes in the glitching pulsar PSR J0537-6910, submitted, arxiv: 2104.14417
-* Abbott et al (2021), Search for anisotropic gravitational-wave backgrounds using data from Advanced LIGO’s and Advanced Virgo’s first three observing runs, submitted, arxiv: 2103.08520
-* Abbott et al (2021), All-sky search in early O3 LIGO data fro continuous gravitational-wave signals from unknown neutron stars in binary systems, Phys. Rev. D 103, 064017, arxiv: 2012.12128
-* Abbott et al (2021), Constraints on cosmic strings using data from the third Advanced LIGO-Virgo observing run, Phys. Rev. Lett. 126, 241102, arxiv: 2101.12248
-* Abbott et al (2021), Upper limits on the isotropic gravitational-wave background from Advanced LIGO’s and Advanced Virgo’s third observing run, submitted, arxiv: 2101.12130
-* Abbott et al (2020), Diving below the spin-down limit: constraints on gravitational waves from the energetic young pulsar PSR J0537-6910, ApJL 913 L27, arxiv: 2012.12926
-
-#### OzGrav
-As a member of OzGrav, I am listed as an author on the following publications. 
-
-* Ackley et al (2020), Neutron Star Extreme Matter Observatory: A kilohertz-band gravitational-wave detector in the global network), Publications of the Astronomical Society of Australia, 37, E047, arxiv: 2105.13085
