@@ -81,7 +81,7 @@ Teaching has been a long-term interest of mine. A good teacher can mean the diff
 I believe our community is at its best when it is inclusive and diverse. The most effective way I can give back to the physics community is to support physicists who face different challenges and use my outreach skills to promote the field to the public.
 
 **[OzGrav](www.ozgrav.com.au) Equity & Diversity Committee** (2017 - PRESENT)
-* Developed and presented hands-on microaggressions workshop at the 2019 OzGrav retreat for (N) academics and students
+* Developed and presented hands-on microaggressions workshop at the 2019 OzGrav retreat for ~250 academics and students
 * Recommended the OzGrav headquarters should have an Acknowledgement of Country, leading to the committee commissioning a local artist to design an appropriate mural
 * Advised on maximizing the accessibility of remote and in-person conferences prior to hosting the 2021 Amaldi conference
 
@@ -101,9 +101,9 @@ I believe our community is at its best when it is inclusive and diverse. The mos
 
 ### Technical skills
 
-**Proficient:** python, LaTeX, bash, slurm, HTCondor, Microsoft Excel, Linux, Mac OSX
+**Proficient:** python, LaTeX, bash, slurm, HTCondor, Microsoft Excel, Linux, Mac OSX, git
 
-**Familiar with:** C, C++, Mathematica, Matlab, HTML, Jekyll, Microsoft Office Suite, Libre Office Suite, Google office suite
+**Familiar with:** C, C++, Mathematica, Matlab, HTML, Jekyll, lisp, Microsoft Office Suite, Libre Office Suite, Google office suite
 
 ### PUBLICATIONS
 The following publications are publications in which I have made an active and appreciable contribution.
