@@ -117,23 +117,30 @@ A more detailed overview of my papers can be found [here](/papers/).
 * Lead analyst for one of the three pipelines presented
 * Identified and corrected gaps in the standard process for setting upper limits
 
-**L. C. Strang, A. Melatos, N. Sarin, P. D. Lasky**, *Inferring properties of neutron stars born in short gamma-ray bursts with a plerion-like X-ray plateau*, [MNRAS](https://doi.org/10.1093/mnras/stab2210), Volume 507, Issue 2, October 2021, Pages 2843–2855, [arxiv.org/abs/2107.13787](https://arxiv.org/abs/2107.13787)
+**Strang & Melatos (2021)** *Applying models of pulsar wind nebulae to explain X-ray plateaux following short gamma-ray bursts*, Marcel Grossman Proceedings, accepted, [arxiv.org/abs/2111.12844](https://arxiv.org/abs/2111.12844)
+
+* Summary and context for previous work on “plerion” models for X-ray plateaux following short gamma-ray bursts
+
+
+**L. C. Strang, A. Melatos, N. Sarin, P. D. Lasky (2021)**, *Inferring properties of neutron stars born in short gamma-ray bursts with a plerion-like X-ray plateau*, [MNRAS](https://doi.org/10.1093/mnras/stab2210), Volume 507, Issue 2, October 2021, Pages 2843–2855, [arxiv.org/abs/2107.13787](https://arxiv.org/abs/2107.13787)
 
 * Developed python implementation of new model for the X-ray afterglows that follow some sGRBs
 * Performed and optimized parameter estimation process, including prior selection, validation, and result analysis
 * Explored three different variations of the underlying model presented in Strang & Melatos (2020)
 
-**L. C. Strang & A. Melatos (2019)**, *Plerion model of the X-ray plateau in short gamma-ray bursts*, [MNRAS](https://academic.oup.com/mnras/article-abstract/487/4/5010/5518367) Volume 487, Issue 4, August 2019, Pages 5010–5018, [arxiv.org/abs/1906.02877](https://arxiv.org/abs/1906.02877)
 
-* Levereged existing models of young supernova remnants to explore the aftermath of short gamma-ray bursts
-* Constructed and analytically solved partial differential equations governing the evolution of a nebula surrounding a magnetar
-* Produced all light curves and data tables
 
 **Millhouse, Strang & Melatos (2020)**, *Search for gravitational waves from twelve young supernova remnants with a hidden Markov model in Advanced LIGO's second observing run*, [Phys. Rev. D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.083025) 102, 083025 [arxiv.org/abs/2003.08588](https://arxiv.org/abs/2003.08588) 
 
 * Co-organized and ran the analysis, including running the initial search
 * Assisted with remaining analysis (i.e. follow-up and vetoes)
 
+
+**L. C. Strang & A. Melatos (2019)**, *Plerion model of the X-ray plateau in short gamma-ray bursts*, [MNRAS](https://academic.oup.com/mnras/article-abstract/487/4/5010/5518367) Volume 487, Issue 4, August 2019, Pages 5010–5018, [arxiv.org/abs/1906.02877](https://arxiv.org/abs/1906.02877)
+
+* Levereged existing models of young supernova remnants to explore the aftermath of short gamma-ray bursts
+* Constructed and analytically solved partial differential equations governing the evolution of a nebula surrounding a magnetar
+* Produced all light curves and data tables
 
 
 ### COLLABORATION PUBLICATIONS
