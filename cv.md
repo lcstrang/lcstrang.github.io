@@ -67,6 +67,7 @@ Teaching has been a long-term interest of mine. A good teacher can mean the diff
 
 ### CONTRIBUTED TALKS
 
+* “Searches for continuous gravitational waves from young supernova remnants with advanced LIGO and Virgo”, [Australasian Conference on General Relativity and Gravitation (ASGRG)](https://www.asgrg2021.org/home) 2021/2022, awarded Kerr Prize for best student talk
 * “Searches for continuous gravitational waves from young supernova remnants with advanced LIGO and Virgo”, Lancaster University Astrophysics Webinar, 2021 (virtual)
 * “A model for X-ray plateaux following short Gamma-Ray Bursts”, [Marcel Grossman 2021 ](http://www.icra.it/mg/mg16/) (virtual)
 * “Searches for continuous gravitational waves from young supernova remnants with advanced LIGO and Virgo”, [Marcel Grossman 2021 ](http://www.icra.it/mg/mg16/) (virtual)
